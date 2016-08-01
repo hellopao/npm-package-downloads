@@ -1,0 +1,27 @@
+{
+  "name": "npm-package-downloads",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "package",
+    "downloads"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "bin": {
+    "npds": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellopao/npm-package-downloads"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "commander": "^2.9.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}

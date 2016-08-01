@@ -1,0 +1,10 @@
+{
+  "name": "npmscore",
+  "dependencies": {},
+  "globalDependencies": {
+    "cheerio": "registry:dt/cheerio#0.17.0+20160407085313",
+    "commander": "registry:dt/commander#2.3.0+20160317120654",
+    "isomorphic-fetch": "registry:dt/isomorphic-fetch#0.0.0+20160524142046",
+    "node": "registry:dt/node#6.0.0+20160728152422"
+  }
+}
